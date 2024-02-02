@@ -22,3 +22,5 @@ Run the following to install necessary packages:
 - npm install react-icons --save
 - npm run knex migrate:latest
 - npm run knex seed:run
+
+Test
